@@ -5,7 +5,6 @@ _Pactica Calificada 4 usando Firebase RealTime Database y Intent Explicito e Imp
 ### Video de App en funcionamiento 📹
 
 <img src="https://i.imgur.com/hVrxAAB.gif" width="288" height="640" />
-<img src="https://i.imgur.com/5JUmViI.gif" width="288" height="640" />
 
 ### APK compilado
 
