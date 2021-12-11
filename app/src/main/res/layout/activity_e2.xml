@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".E2Activity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Datos Mostrados"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/lblNombres"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="nombres"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:layout_margin="10sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/lblApellidos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="apellidos"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:layout_margin="10sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lblCorreo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="direccion"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:layout_margin="10sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
