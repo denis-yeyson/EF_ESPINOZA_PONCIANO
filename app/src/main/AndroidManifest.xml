@@ -13,6 +13,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EF_ESPINOZA_PONCIANO">
         <activity
+            android:name=".ListaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegistroActivity"
+            android:exported="false" />
+        <activity
             android:name=".TerminosActivity"
             android:exported="false" />
         <activity

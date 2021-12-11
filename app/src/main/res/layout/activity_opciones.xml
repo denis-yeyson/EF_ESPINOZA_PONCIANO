@@ -12,7 +12,7 @@
         android:id="@+id/buttonCrud"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ejemplo CRUD"/>
+        android:text="    Ejemplo CRUD    "/>
 
     <Button
         android:id="@+id/buttonI1"

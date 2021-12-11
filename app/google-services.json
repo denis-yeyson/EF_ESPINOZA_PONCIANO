@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639313709177",
+    "project_id": "ef-uch",
+    "storage_bucket": "ef-uch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639313709177:android:aa40133e0f791e70722ca8",
+        "android_client_info": {
+          "package_name": "com.denisyeyson.ef_espinoza_ponciano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639313709177-c9l5h8439vm4qbr48mlau3tricciha7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.denisyeyson.ef_espinoza_ponciano",
+            "certificate_hash": "545b81e023a9cbc91aab7345288b55b8af6b922a"
+          }
+        },
+        {
+          "client_id": "639313709177-l480dchm229g0kpjtj751jhs4cn7the2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAasjeQuaPBAPE5uZ6Bb-wFd7BtINH7dIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639313709177-l480dchm229g0kpjtj751jhs4cn7the2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

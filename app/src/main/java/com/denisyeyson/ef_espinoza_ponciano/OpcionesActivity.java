@@ -12,19 +12,28 @@ import android.widget.Button;
 
 public class OpcionesActivity extends AppCompatActivity {
 
-    Button btnI1,btnI2,btnI3,btnE1,btnE2,btnE3;
+    Button btnCrud,btnI1,btnI2,btnI3,btnE1,btnE2,btnE3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_opciones);
 
+        btnCrud = findViewById(R.id.buttonCrud);
         btnI1 = findViewById(R.id.buttonI1);
         btnI2 = findViewById(R.id.buttonI2);
         btnI3 = findViewById(R.id.buttonI3);
         btnE1 = findViewById(R.id.buttonE1);
         btnE2 = findViewById(R.id.buttonE2);
         btnE3 = findViewById(R.id.buttonE3);
+
+        btnCrud.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent_explicito = new Intent(OpcionesActivity.this, RegistroActivity.class);
+                startActivity(intent_explicito);
+            }
+        });
 
         btnI1.setOnClickListener(new View.OnClickListener() {
             @Override
