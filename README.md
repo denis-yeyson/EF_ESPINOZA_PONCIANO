@@ -1,10 +1,10 @@
 # EXAMEN FINAL - EPDY
 
-_Pactica Calificada 4 usando Firebase RealTime Database y Intent Explicito e Implicito._
+_Examen Final usando Firebase RealTime Database y Intent Explicito e Implicito._
 
 ### Video de App en funcionamiento 📹
 
-<img src="https://i.imgur.com/5SNjyxx.gif" width="288" height="640" />
+<img src="https://i.imgur.com/5SNjyxx.gif"/>
 
 ### APK compilado
 
