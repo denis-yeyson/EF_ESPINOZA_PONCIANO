@@ -4,10 +4,7 @@ _Examen Final usando Firebase RealTime Database y Intent Explicito e Implicito._
 
 ### Video de App en funcionamiento 📹
 
-<img src="https://i.imgur.com/5SNjyxx.gif"/>
-![Esta es una imagen de ejemplo](https://i.imgur.com/5SNjyxx.gif)
-
-![Alt text](https://i.imgur.com/5SNjyxx.gif "Optional title")
+<img src="https://i.imgur.com/2uKLgv2.gif"/>
 
 ### APK compilado
 
